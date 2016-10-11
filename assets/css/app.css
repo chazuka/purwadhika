@@ -1,0 +1,17 @@
+.reveal {
+	font-family: 'Arimo', sans-serif;
+}
+
+.reveal h1, 
+.reveal h2, 
+.reveal h3, 
+.reveal h4, 
+.reveal h5 {
+	font-family: 'Raleway', sans-serif;
+	text-transform: none;
+}
+
+section img {
+	width: 700px;
+	height: auto;
+}
